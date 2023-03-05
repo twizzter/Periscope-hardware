@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: periscope_sensor.PcbDoc   05.03.2023  17:01:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : periscope_sensor-Plated.TXT
+ASCII Non-Plated RoundHoles File : periscope_sensor-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             22        PTH        2.50inch (63.41mm)
+T2      32mil (0.8mm)                                             Round             2         PTH        0.20inch (5.10mm)
+T3      79mil (2mm)                                               Round             2         NPTH       0.47inch (12.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              26
+
+Total Processing Time (hh:mm:ss) : 00:00:00

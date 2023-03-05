@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: periscope.PcbDoc   05.03.2023  16:07:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : periscope-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : periscope-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : periscope-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             92        PTH        16.57inch (420.78mm)
+T2      16mil (0.4mm)                                             Round             14        PTH        0.47inch (12.01mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.51inch (38.42mm)
+T4      28mil (0.7mm)                                             Round             12        PTH        1.79inch (45.35mm)
+T5      43mil (1.1mm)                                             Round             2         PTH        0.10inch (2.54mm)
+T6      79mil (2mm)                                               Round             3         NPTH       2.96inch (75.26mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              127
+
+Total Processing Time (hh:mm:ss) : 00:00:00

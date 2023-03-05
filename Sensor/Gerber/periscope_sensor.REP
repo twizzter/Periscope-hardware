@@ -1,0 +1,150 @@
+*************************************************************
+FileName = periscope_sensor.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : periscope_sensor.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : periscope_sensor.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : periscope_sensor.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D16
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : periscope_sensor.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : periscope_sensor.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : periscope_sensor.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : periscope_sensor.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : periscope_sensor.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D23
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : periscope_sensor.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D34
+*************************************************************
+
